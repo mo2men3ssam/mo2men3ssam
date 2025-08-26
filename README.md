@@ -79,8 +79,6 @@
 
 ### Featured Projects
 
-- **KiddyRanchFront**: Angular front-end playground and experiments
-- **Fake WhatsApp Chat**: Flutter demo app for UI exploration
   
 <div align="center">
 
